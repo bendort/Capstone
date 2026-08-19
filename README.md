@@ -15,3 +15,5 @@ MY personal objective is to gain knowledge and work with tools that can be used 
 Technical Approach:
 
 During the first three weeks I have been using a Gaussian Process model to represent knowledge of each function. I have been using the Upper Confidence Bound to select where to sample the function input space to gain knowledge on each of the hidden functions. I also use a number of metrics to give me a feel for whether I am exploring or being exploitive of the existing data. Some functions feel quite multimodal so these I am keen to explore, whereas others seem more singular, so I am more exploitive.
+
+Model Card and Data Sheets can be found in the parent directory for the project.
